@@ -1,8 +1,6 @@
-package date_11_23;
+package leetcode2023.date_11_23;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
-import java.util.List;
 
 /**
  * @author 86176

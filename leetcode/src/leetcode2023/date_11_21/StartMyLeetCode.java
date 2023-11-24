@@ -1,4 +1,4 @@
-package date_11_21;
+package leetcode2023.date_11_21;
 
 public class StartMyLeetCode {
     public static void main(String[] args) {

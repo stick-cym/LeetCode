@@ -1,4 +1,4 @@
-package date_11_22;
+package leetcode2023.date_11_22;
 
 public class ringsAndRods {
     public static void main(String[] args) {
