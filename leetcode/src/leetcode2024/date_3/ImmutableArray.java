@@ -10,7 +10,7 @@ public class ImmutableArray {
         }
     }
 
-    public int sumRange1(int left, int right) {
+    public final int sumRange1(int left, int right) {
         return sums[right+1]-sums[left];
     }
     private int[] nums;
